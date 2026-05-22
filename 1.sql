@@ -10,6 +10,7 @@ MANAGER_NO INT,
 SAL DECIMAL(10, 2), 
 COMMISSION DECIMAL(10, 2) 
 );
+desc Employee
 
 INSERT INTO Employee VALUES (1, 'John Doe', 'Manager', NULL, 5000.00, 1000.00);
 INSERT INTO Employee VALUES (2, 'Jane Smith', 'Developer', 1, 4000.00, NULL);
