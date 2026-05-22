@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env.*
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Firebase service account
+serviceAccountKey.json
+
+# IDE
+.vscode/
+
+# Virtual Environment
+.venv/
+backend/.venv/
+venv/
+
+# Models
+backend/models/
